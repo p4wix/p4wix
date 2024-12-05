@@ -41,3 +41,6 @@
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a> 
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=p4wix&show_icons=true&locale=en&layout=compact" alt="p4wix" /></p>
+
