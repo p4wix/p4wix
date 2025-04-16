@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paweł</h1>
+<h1 align="left">Hi 👋</h1>
 
 ### Connect with me:
 
