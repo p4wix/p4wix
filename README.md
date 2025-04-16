@@ -1,7 +1,3 @@
-<h1 align="left">Hi 👋</h1>
-
-### Connect by:
-
 <p align="left">
   <a href="https://linkedin.com/in/pawel-biniak">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
